@@ -1,0 +1,5 @@
+error: unexpected value 'true' for '--all' found; no more were expected
+
+Usage: envdiff --all <FILE_A> <FILE_B>
+
+For more information, try '--help'.

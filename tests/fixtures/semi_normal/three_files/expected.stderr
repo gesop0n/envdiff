@@ -1,0 +1,5 @@
+error: unexpected argument '.env' found
+
+Usage: envdiff [OPTIONS] <FILE_A> <FILE_B>
+
+For more information, try '--help'.

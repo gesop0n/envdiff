@@ -1,0 +1,4 @@
+envdiff: 警告: .env:1: KEY=VALUE の形になっていない行を飛ばした
+envdiff: 警告: .env:2: TRAILING の値を読めないので飛ばした (閉じ引用符の後ろに余分な文字がある)
+envdiff: 警告: .env:4: DUP が 3 行目にもあるので、後ろの定義を使う
+envdiff: 警告: .env:5: BROKEN の値を読めないので、最後の行まで飛ばした (閉じ引用符が無い)

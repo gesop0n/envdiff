@@ -1,0 +1,7 @@
+error: unexpected argument '--unknown' found
+
+  tip: to pass '--unknown' as a value, use '-- --unknown'
+
+Usage: envdiff [OPTIONS] <FILE_A> <FILE_B>
+
+For more information, try '--help'.

@@ -1,0 +1,4 @@
+--all
+--keys-only
+.env
+.env.backup

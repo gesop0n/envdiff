@@ -1,0 +1,4 @@
+envdiff: 警告: .env:1: KEY=VALUE の形になっていない行を飛ばした
+envdiff: 警告: .env:2: KEY=VALUE の形になっていない行を飛ばした
+envdiff: 警告: .env:3: KEY=VALUE の形になっていない行を飛ばした
+envdiff: 警告: .env:4: KEY=VALUE の形になっていない行を飛ばした

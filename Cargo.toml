@@ -1,0 +1,14 @@
+[package]
+name = "envdiff"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.87"
+description = "2 つの dotenv ファイルをキー単位で比べる (値は表示しない)"
+publish = false
+
+[dependencies]
+# 値の比較に使う、実行ごとの鍵付きハッシュ
+blake3 = "1"
+clap = { version = "4", features = ["derive"] }
+# ハッシュの鍵を OS の乱数から作る
+getrandom = "0.3"

@@ -1,0 +1,8 @@
+/target
+# nix build の出力
+/result
+
+
+# Nix
+.direnv/
+.envrc

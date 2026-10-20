@@ -1,0 +1,7 @@
+error: the following required arguments were not provided:
+  <FILE_A>
+  <FILE_B>
+
+Usage: envdiff <FILE_A> <FILE_B>
+
+For more information, try '--help'.
